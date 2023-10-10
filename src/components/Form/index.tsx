@@ -1,5 +1,5 @@
 import Result from "../Result/index"
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 function Form() {
 
